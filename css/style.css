@@ -37,13 +37,24 @@ p {
     min-width: 300px;
 }
 
+.h2_1{
+        background-color: Red;
+}
+
+.h2_2{
+        background-color: Orange;
+}
+
+.h2_3{
+        background-color: Green;
+}
+
 h2
 {
     position:absolute;
     top:-2px;
     right:-2px;
     width: 130px;
-    background-color: Red;
     height: 32px;
     margin: 0;
     color: white;
